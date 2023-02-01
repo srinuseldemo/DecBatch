@@ -1,0 +1,8 @@
+package com.OrangeHRMApplicationPagesTest;
+
+import com.BaseTest.BaseTest;
+
+public class OrangeHRMLogInPageTest extends BaseTest   {
+	
+		
+}

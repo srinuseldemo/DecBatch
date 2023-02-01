@@ -1,0 +1,14 @@
+package com.OrangeHRMApplicationPagesTest;
+
+import com.OrangeHRMApplicationPages.OrangeHRMLogInPage;
+
+public class OrangeHRMLogInPageTest   {
+	
+	OrangeHRMLogInPage logInTest = new OrangeHRMLogInPageTest(driver,this);
+	
+	
+	
+	
+
+	
+}

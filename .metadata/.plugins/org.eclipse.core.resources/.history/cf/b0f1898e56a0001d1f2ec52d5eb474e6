@@ -1,0 +1,18 @@
+package stepDefinations;
+import org.junit.runner.RunWith;
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(features="OrangeHRMApplication",
+glue="stepDefinations",// glue connects the feature file with the stepDefination
+					   // Package - which executes the respective methods	
+				 monochrome=true
+				// dryRun=true
+				 //tags="@Smoke"
+				 
+				)
+
+public class TestRunner {
+
+}

@@ -1,0 +1,13 @@
+2023-01-23 10:13:33,155 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-23 10:13:35,506 - Log -INFO - Successfuly Navigated to OrangeHRM Application LogIn Page
+2023-01-23 10:13:37,643 - Log -INFO -  Validation of OrangeHRM Application LogIn Page Successful 
+2023-01-23 10:13:52,588 - Log -INFO - Successfully navigated to home page - PASS
+2023-01-23 10:14:00,141 - Log -INFO - Successfully logout from the OrangeHRM Login Functionality
+2023-01-23 10:14:00,184 - Log -INFO - Successfully logged into OrangeHRM Appliication 
+2023-01-23 10:14:03,186 - Log -INFO - Failed to login to OrangeHRM Appliication - Captured Screenshot of error web page
+2023-01-23 10:14:04,976 - Log -INFO - Failed to login to OrangeHRM Appliication - Captured Screenshot of error web page
+2023-01-23 10:14:06,611 - Log -INFO - Failed to login to OrangeHRM Appliication - Captured Screenshot of error web page
+2023-01-23 10:14:23,273 - Log -INFO - Successfully navigated to home page - PASS
+2023-01-23 10:14:24,946 - Log -INFO - Successfully logout from the OrangeHRM Login Functionality
+2023-01-23 10:14:24,977 - Log -INFO - Successfully logged into OrangeHRM Appliication 
+2023-01-23 10:14:26,485 - Log -INFO - OrangeHRM Application Closed Successfully

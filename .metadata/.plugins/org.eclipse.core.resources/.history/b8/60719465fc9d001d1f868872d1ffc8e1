@@ -1,0 +1,72 @@
+package stepDefinations;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class OrangeHRMApplicationMethods {
+	
+	WebDriver driver;
+	String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard";
+
+	@Given("^User should Launch Chrome Browser$")
+	public void user_should_Launch_Chrome_Browser()  
+	{
+	    System.setProperty("webdriver.chrome.driver", "C:\\Users\\srinivas1\\Desktop\\Dec9amBatch\\OrangeHRMApplication_Cucumber\\browserDriverFiles\\chromedriver.exe");
+	       driver = new ChromeDriver();
+	       
+	       driver.manage().deleteAllCookies();
+	                  
+	}
+
+	@When("^User Enters OrangeHRM Applicatioin Url Address$")
+	public void user_Enters_OrangeHRM_Applicatioin_Url_Address()
+	{
+			driver.get(applicationUrlAddress);
+	    
+	       driver.manage().window().maximize();
+	       driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+	       driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	    
+	
+	}
+
+	@Then("^User should be able to Navigate to OrangeHRM Application LogIn Page$")
+	public void user_should_be_able_to_Navigate_to_OrangeHRM_Application_LogIn_Page()
+	{
+		String expected_OrangeHRMApplicationLogInPageText="LOGIN Panel";
+		
+		//id="logInPanelHeading"
+		By logInPanelLocator=By.id("logInPanelHeading");
+		WebElement OrangeHRMApplicationLogInPageLogInPanel=driver.findElement(logInPanelLocator);
+		String actual_OrangeHRMApplicationLogInPageLogInPanelText=OrangeHRMApplicationLogInPageLogInPanel.getText();
+		
+		if(actual_OrangeHRMApplicationLogInPageLogInPanelText.equals(expected_OrangeHRMApplicationLogInPageText))
+		{
+			System.out.println(" Successfully Navigated to OrangeHRM Application LogIn Page - PASS");
+		}
+		else
+		{
+			System.out.println("Failed to Navigate to OrangeHRM Application LogIn Page - FAIL");
+		}
+		
+		
+	
+	}
+
+	@Then("^User should Close the OrangeHRM Application$")
+	public void user_should_Close_the_OrangeHRM_Application() 
+	{
+	
+		
+	}
+
+	
+}

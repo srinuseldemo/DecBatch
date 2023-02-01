@@ -1,0 +1,15 @@
+package com.OrangeHRMApplicationPagesTest;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationPages.OrangeHRMLogInPage;
+
+public class OrangeHRMLogInPageTest extends BaseTest   {
+	
+	public void logInPanelTextValidationTest()
+	{
+		OrangeHRMLogInPage lip = new OrangeHRMLogInPage();
+		lip.logInPanelTextValidation();
+			
+	}
+	
+}

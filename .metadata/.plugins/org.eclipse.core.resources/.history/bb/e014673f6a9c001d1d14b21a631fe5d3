@@ -1,0 +1,20 @@
+package com.OrangeHRMApplicationPagesTest;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationPages.OrangeHRMLogInPage;
+
+public class OrangeHRMLogInPageTest extends BaseTest   {
+	
+	WebDriver driver;
+	@Test
+	public void logInPanelTextValidationTest()
+	{
+		OrangeHRMLogInPage lip = new OrangeHRMLogInPage(driver);
+		lip.logInPanelTextValidation();
+			
+	}
+	
+}

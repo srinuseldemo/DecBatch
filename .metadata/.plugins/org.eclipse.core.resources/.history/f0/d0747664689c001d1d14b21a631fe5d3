@@ -1,0 +1,11 @@
+package com.OrangeHRMApplicationPagesTest;
+
+
+
+public class OrangeHRMLogInPageTest   {
+	
+	OrangeHRMLogInPage logInTest = new OrangeHRMLogInPageTest();
+	
+
+	
+}

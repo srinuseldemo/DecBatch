@@ -1,0 +1,41 @@
+package com.OrangeHRMApplicationPagesTest;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationPages.OrangeHRMLogInPage;
+import com.Utility.Log;
+
+public class OrangeHRMLogInPageTest extends BaseTest   {
+	
+	OrangeHRMLogInPage lip ;	
+	
+	@Test(priority=1)
+	public void logInPanelTextValidationTest()
+	{
+		 lip = new OrangeHRMLogInPage();
+		lip.logInPanelTextValidation();
+		
+		Log.info("Valdation of LogInPanel Text in OrangeHRM Application LogIn Page Successful");
+			
+	}
+	
+	@Test(priority=2)
+	public void logInTest()
+	{
+		 lip = new OrangeHRMLogInPage();
+		 lip.logIn("srini", "Q@Trainer7");
+		 
+		 Log.info("Successfully Navigated to OrangeHRM Application HomePage ");
+		 
+	}
+	
+	@Test(priority=3)
+	public void OrangeHRMLogoValidationTest()
+	{
+		 lip = new OrangeHRMLogInPage();
+		 lip.OrangeHRMLogoValidation();
+		 
+		 Log.info("Validation of OrangeHRM Logo in OrangeHRM Application LogIn Page successfull");
+	}
+}

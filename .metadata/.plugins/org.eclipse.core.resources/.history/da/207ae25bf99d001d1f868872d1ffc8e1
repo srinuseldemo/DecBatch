@@ -1,0 +1,5 @@
+Feature: OrangeHRM Application Functionalities Testing
+
+Scenario: Validating OrangeHRM Application LogIn Page
+
+Given 

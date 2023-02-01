@@ -1,0 +1,14 @@
+package com.OrangeHRMApplicationPagesTest;
+
+public class OrangeHRMLogInPageTest extends BaseTest   {
+	
+	WebDriver driver;
+	@Test
+	public void logInPanelTextValidationTest()
+	{
+		OrangeHRMLogInPage lip = new OrangeHRMLogInPage(driver);
+		lip.logInPanelTextValidation();
+			
+	}
+	
+}

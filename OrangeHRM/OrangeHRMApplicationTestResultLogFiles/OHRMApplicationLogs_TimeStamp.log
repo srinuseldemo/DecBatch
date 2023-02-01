@@ -1,0 +1,194 @@
+2023-01-18 09:49:37,817 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 09:49:40,067 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 09:49:40,334 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 09:49:40,351 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 09:49:40,355 - Log -INFO -  Title matched - PASS 
+2023-01-18 09:49:40,368 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 09:49:40,383 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 09:49:40,392 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 09:49:40,397 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 09:49:40,454 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 09:49:40,461 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 09:49:41,473 - Log -INFO - The UserName is :- srini
+2023-01-18 09:49:41,479 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 09:49:46,236 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 09:49:46,244 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 09:49:48,020 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:02:10,517 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:02:14,628 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:02:14,862 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:02:14,879 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:02:14,889 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:02:14,894 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:02:14,909 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:02:14,915 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:02:14,923 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:02:14,970 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:02:14,974 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:02:15,876 - Log -INFO - The UserName is :- srini
+2023-01-18 10:02:15,883 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:02:18,825 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:02:18,834 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:02:36,844 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:14:02,835 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:14:07,228 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:17:05,359 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:17:08,421 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:17:08,685 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:17:08,700 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:17:08,706 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:17:08,713 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:17:08,724 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:17:08,731 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:17:08,735 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:17:08,794 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:17:08,800 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:17:09,729 - Log -INFO - The UserName is :- srini
+2023-01-18 10:17:09,735 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:17:13,935 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:17:13,944 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:17:38,197 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:20:33,958 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:20:36,869 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:20:37,178 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:20:37,191 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:20:37,197 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:20:37,203 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:20:37,217 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:20:37,224 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:20:37,229 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:20:37,303 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:20:37,309 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:20:38,343 - Log -INFO - The UserName is :- srini
+2023-01-18 10:20:38,349 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:20:42,211 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:20:42,218 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:20:57,555 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:31:42,399 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:31:46,239 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:31:46,515 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:31:46,528 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:31:46,533 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:31:46,538 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:31:46,550 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:31:46,556 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:31:46,560 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:31:46,612 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:31:46,617 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:31:47,477 - Log -INFO - The UserName is :- srini
+2023-01-18 10:31:47,483 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:31:49,600 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:31:49,610 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:31:51,616 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:35:17,316 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:35:21,036 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:35:21,306 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:35:21,317 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:35:21,325 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:35:21,330 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:35:21,342 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:35:21,348 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:35:21,354 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:35:21,403 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:35:21,407 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:35:22,232 - Log -INFO - The UserName is :- srini
+2023-01-18 10:35:22,238 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:35:24,325 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:35:24,341 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:35:26,101 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:35:27,886 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:35:30,039 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:35:30,268 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:35:30,286 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:35:30,297 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:35:30,303 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:35:30,317 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:35:30,324 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:35:30,329 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:35:30,382 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:35:30,387 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:35:30,456 - Log -INFO - The UserName is :- srini
+2023-01-18 10:35:30,461 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:35:33,093 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:35:33,098 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:35:47,392 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:38:20,376 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:38:20,382 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:38:26,235 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:38:26,517 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:38:26,539 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:38:26,548 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:38:26,554 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:38:26,562 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:38:26,623 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:38:26,636 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:38:26,651 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:38:26,719 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:38:26,751 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:38:26,755 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:38:26,765 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:38:26,770 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:38:26,792 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:38:26,812 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:38:26,816 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:38:26,822 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:38:26,866 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:38:26,871 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:38:27,837 - Log -INFO - The UserName is :- srini
+2023-01-18 10:38:27,846 - Log -INFO - The UserName is :- srini
+2023-01-18 10:38:27,852 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:38:27,862 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:38:31,906 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:38:31,915 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:38:32,342 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:38:32,348 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:38:36,116 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:38:47,816 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:47:05,851 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:47:05,941 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:47:11,597 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:47:11,836 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:47:11,863 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:47:11,869 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:47:11,883 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:47:11,912 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:47:11,919 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:47:11,925 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:47:11,999 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:47:12,007 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:47:12,118 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:47:12,415 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:47:12,431 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:47:12,438 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:47:12,445 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:47:12,459 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:47:12,464 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:47:12,469 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:47:12,542 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:47:12,547 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:47:13,419 - Log -INFO - The UserName is :- srini
+2023-01-18 10:47:13,425 - Log -INFO - The UserName is :- srini
+2023-01-18 10:47:13,430 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:47:13,437 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:47:16,697 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:47:16,708 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:47:17,128 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:47:17,134 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:47:20,433 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:47:39,101 - Log -INFO - OrangeHRM Application Closed Successfully
+2023-01-18 10:49:16,210 - Log -INFO - Chrome Browser Launched Successfully
+2023-01-18 10:49:19,182 - Log -INFO - Successfully navigated to OrangeHRM Application LogIn Page
+2023-01-18 10:49:19,432 - Log -INFO -  The title of OrangeHRM Application OrangeHRM
+2023-01-18 10:49:19,455 - Log -INFO - The actual title of OrangeHRm Application is : OrangeHRM
+2023-01-18 10:49:19,467 - Log -INFO -  Title matched - PASS 
+2023-01-18 10:49:19,474 - Log -INFO - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+2023-01-18 10:49:19,489 - Log -INFO -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-01-18 10:49:19,495 - Log -INFO -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+2023-01-18 10:49:19,499 - Log -INFO - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:49:19,552 - Log -INFO - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+2023-01-18 10:49:19,556 - Log -INFO -  LogIn Page Text found - PASS  
+2023-01-18 10:49:20,430 - Log -INFO - The UserName is :- srini
+2023-01-18 10:49:20,436 - Log -INFO - The Password is Q@Trainer7
+2023-01-18 10:49:24,046 - Log -INFO -  THe actual Text of The OrangeHRM Application HomPage is :Welcome Admin
+2023-01-18 10:49:24,058 - Log -INFO - OrangeHRM HomePage Text Found- PASS
+2023-01-18 10:49:45,963 - Log -INFO - OrangeHRM Application Closed Successfully

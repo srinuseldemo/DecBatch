@@ -1,0 +1,13 @@
+[main] INFO Log - Chrome Browser Launched Successfully
+[main] INFO Log - Successfuly Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log -  Validation of OrangeHRM Application LogIn Page Successful 
+[main] INFO Log - Successfully navigated to home page - PASS
+[main] INFO Log - Successfully logout from the OrangeHRM Login Functionality
+[main] INFO Log - Successfully logged into OrangeHRM Appliication 
+[main] INFO Log - Failed to login to OrangeHRM Appliication - Captured Screenshot of error web page
+[main] INFO Log - Failed to login to OrangeHRM Appliication - Captured Screenshot of error web page
+[main] INFO Log - Failed to login to OrangeHRM Appliication - Captured Screenshot of error web page
+[main] INFO Log - Successfully navigated to home page - PASS
+[main] INFO Log - Successfully logout from the OrangeHRM Login Functionality
+[main] INFO Log - Successfully logged into OrangeHRM Appliication 
+[main] INFO Log - OrangeHRM Application Closed Successfully

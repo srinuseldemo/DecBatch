@@ -1,0 +1,33 @@
+package com.OrangeHRMApplicationPagesTest;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationPages.OrangeHRMLogInPage;
+
+public class OrangeHRMLogInPageTest extends BaseTest   {
+	
+	OrangeHRMLogInPage lip ;	
+	
+	@Test(priority=1)
+	public void logInPanelTextValidationTest()
+	{
+		 lip = new OrangeHRMLogInPage();
+		lip.logInPanelTextValidation();
+			
+	}
+	
+	@Test(priority=2)
+	public void logInTest()
+	{
+		 lip = new OrangeHRMLogInPage();
+		 lip.logIn("srini", "Q@Trainer7");
+	}
+	
+	@Test(priority=3)
+	public void OrangeHRMLogoValidationTest()
+	{
+		 lip = new OrangeHRMLogInPage();
+		 lip.OrangeHRMLogoValidation();
+	}
+}

@@ -1,0 +1,18 @@
+package stepDefinations;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.Before;
+
+public class Hook {
+	
+	@Before
+	public void setUp()
+	{
+		 System.setProperty("webdriver.chrome.driver", "C:\\Users\\srinivas1\\Desktop\\Dec9amBatch\\OrangeHRMApplication_Cucumber\\browserDriverFiles\\chromedriver.exe");
+	       driver = new ChromeDriver();
+	       driver.manage().deleteAllCookies();
+	   
+	}
+
+}

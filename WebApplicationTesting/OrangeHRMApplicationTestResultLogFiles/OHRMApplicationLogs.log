@@ -1,0 +1,216 @@
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
+[main] INFO OrangeHRM_LogInTest -  The title of OrangeHRM Application OrangeHRM
+[main] INFO OrangeHRM_LogInTest - The actual title of OrangeHRm Application is : OrangeHRM
+[main] INFO OrangeHRM_LogInTest -  Title matched - PASS 
+[main] INFO OrangeHRM_LogInTest - The Expected OrangeHRM Application LogIn Page Url Address is : orangehrm-4.2.0.1
+[main] INFO OrangeHRM_LogInTest -  The Actual OrangeHRM Application LogIn Page Url Address is :http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO OrangeHRM_LogInTest -  OrangeHRM Application LogIn Page URL Address Matched - PASS
+[main] INFO OrangeHRM_LogInTest - The expected Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest - The Actual Text of OrangeHRM Application LogIn Page is :LOGIN Panel
+[main] INFO OrangeHRM_LogInTest -  LogIn Page Text found - PASS  
